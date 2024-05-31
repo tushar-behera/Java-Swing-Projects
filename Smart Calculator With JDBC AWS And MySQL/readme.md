@@ -2,10 +2,9 @@
 
 **Author : Tushar Behera**
 
-
-![](Aspose.Words.a7c89a34-a465-44e5-bded-d1c607c7b6ef.001.png)
-
+<br/>
 Storing Data is time-consuming. So to speed up the process I implemented a prototype that can take input from this smart calculator and save it on cloud DB for future use. The main goal of this system is that you can easily integrate with any application where data is in terms of quantity so that the initial storing process is faster.
+<br/><br/>
 
 **FUNCTIONALITIES** 
 
@@ -56,20 +55,14 @@ Storing Data is time-consuming. So to speed up the process I implemented a proto
 
 **SCREEN SHOTS :**
 
-![](Aspose.Words.a7c89a34-a465-44e5-bded-d1c607c7b6ef.002.png)
+![](https://github.com/tushar-behera/Java-Swing-Projects/blob/main/Smart%20Calculator%20With%20JDBC%20AWS%20And%20MySQL/nbproject/prototype.png)
 
-![](Aspose.Words.a7c89a34-a465-44e5-bded-d1c607c7b6ef.003.png)
 
-![](Aspose.Words.a7c89a34-a465-44e5-bded-d1c607c7b6ef.004.png)
-
-![](Aspose.Words.a7c89a34-a465-44e5-bded-d1c607c7b6ef.005.png)
 
 **SQL QUERIES :**
 
-![](Aspose.Words.a7c89a34-a465-44e5-bded-d1c607c7b6ef.006.jpeg)
+![](https://github.com/tushar-behera/Java-Swing-Projects/blob/main/Smart%20Calculator%20With%20JDBC%20AWS%20And%20MySQL/nbproject/query1.jpg)
 
-![](Aspose.Words.a7c89a34-a465-44e5-bded-d1c607c7b6ef.007.jpeg)
-
-GITHUB :
-
-https://github.com/tushar-behera/Java-Swing-Projects
+![](https://github.com/tushar-behera/Java-Swing-Projects/blob/main/Smart%20Calculator%20With%20JDBC%20AWS%20And%20MySQL/nbproject/query2.jpg)
+<br/><br/>
+- Download calculator.jar to check the Functionalities

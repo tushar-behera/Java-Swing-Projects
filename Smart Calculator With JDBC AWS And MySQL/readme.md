@@ -1,8 +1,7 @@
 **SMART CLOUD BASED CALCULATOR TO IMPROVE DATA STORE**
 
-**Tushar Behera**
+**Author : Tushar Behera**
 
-23mmci31
 
 ![](Aspose.Words.a7c89a34-a465-44e5-bded-d1c607c7b6ef.001.png)
 
